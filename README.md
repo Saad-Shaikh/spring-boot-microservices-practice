@@ -19,3 +19,9 @@ The **_movie-catalog-service_** project calls the **_ratings-data-service_** and
 First start the **_discovery-server_** and then run the other 3 projects. You can look at the registered Eureka clients in the [Spring Eureka dashboard](http://localhost:8761/).
 
 The **_movie-catalog-service_** endpoint is at http://localhost:8081/catalog/foo.
+
+## Technologies -
+
+* Spring Boot
+* Spring Cloud
+* Eureka Discovery Server
