@@ -25,3 +25,4 @@ The **_movie-catalog-service_** endpoint is at http://localhost:8081/catalog/foo
 * Spring Boot
 * Spring Cloud
 * Eureka Discovery Server
+* Hystrix
